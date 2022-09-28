@@ -1,9 +1,8 @@
 package VariablesYOperadores;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
-public class Ejercicios09 {
+public class Ejercicio09 {
     public static void main(String[] args) {
         /*
         9. Escribe un programa que calcule (y muestre) cuántas horas, minutos y segundos han
