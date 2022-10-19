@@ -18,7 +18,7 @@ public class Ejercicio24 {
         int suma = 0;
         for (int i = a; i <= b; i++) {
             // vamos sumando a suma todos los números desde a hasta b
-            suma = suma + i;
+            suma = suma + i; // sumo lo que tengo acumulado en suma hasta ese momento más la i que toque en cada iteración y lo guardo en suma
         }
         System.out.println("Resultado: " + suma);
 
